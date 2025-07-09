@@ -14,4 +14,4 @@ A simple bank project running on Console C# project
 
 # How faithful is this project?
 
-- Learn how to use Switch and While,Console.Clear and money movements
+- Learn how to use Switch and While, Console.Clear and money movements.
